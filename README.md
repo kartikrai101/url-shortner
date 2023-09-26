@@ -1,0 +1,4 @@
+# What is a URL-Shortner?
+A URL shortener is a web service or tool that takes a long and unwieldy Uniform Resource Locator (URL) and converts it into a shorter, more manageable form. The primary purpose of a URL shortener is to make long URLs more user-friendly, shareable, and easier to remember.
+Popular URL shortening services include Bitly, TinyURL, and Ow.ly, among others. Many websites and organizations also use custom URL shorteners to create branded short links specific to their domain or service.
+It's important to note that while URL shorteners offer many benefits, they do have some drawbacks, such as potential link obfuscation (users can't easily see where the link leads) and concerns about privacy and the longevity of short links. As a result, the use of URL shorteners has evolved, and some services offer features like link previews and the ability to set expiration dates for short links to address these issues.
