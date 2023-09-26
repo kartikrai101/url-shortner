@@ -24,11 +24,12 @@ module.exports = async (app, database) => {
                     "success": true,
                     "ogUrl": ogUrl
                 })
+                //res.redirect(ogUrl);
             }
         })
     })
 
-    app.post('/shortit/postUrl', (req, res) => {
+    app.post('/shortify/postUrl', (req, res) => {
         const ogUrl = req.body.url;
         //console.log(ogUrl);
 
